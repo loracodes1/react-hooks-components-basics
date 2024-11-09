@@ -1,4 +1,4 @@
-import React from "react";
+clearImmediategit import React from "react";
 
 function Article() {
   return (
